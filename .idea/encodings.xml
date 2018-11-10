@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/CourseMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/CourseSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/FatherMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/FatherSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/HusbandMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/HusbandSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/ScMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/ScSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/SonMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/SonSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/StudentMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/StudentSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/WifeMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/WifeMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/WifeSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/mapper/WifeSqlProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/CourseExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Father.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/FatherExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Husband.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/HusbandExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Sc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/ScExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/ScKey.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Son.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/SonExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/StudentExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Wife.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/Wife.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/WifeExample.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/conhj/model/WifeExample.java" charset="GBK" />
+  </component>
+</project>
